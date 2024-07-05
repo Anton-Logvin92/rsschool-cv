@@ -1,5 +1,5 @@
 body {
-    width: 70%;
+    width: 60%;
     margin: 0 auto;
 }
 .mainInfo {
@@ -16,3 +16,10 @@ footer {
     padding: 20px 0;
     align-items: center;
 }
+html {
+      font-family: "Roboto Mono", monospace;
+      font-optical-sizing: auto;
+      font-weight: 200;
+      font-style: normal;
+    }
+  
