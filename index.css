@@ -1,0 +1,25 @@
+body {
+    width: 60%;
+    margin: 0 auto;
+}
+.mainInfo {
+    display: flex;
+    justify-content: space-between;
+}
+.email:hover, .phone:hover, .telegram:hover {
+    cursor: pointer;
+    color: blue;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    align-items: center;
+}
+html {
+      font-family: "Roboto Mono", monospace;
+      font-optical-sizing: auto;
+      font-weight: 200;
+      font-style: normal;
+    }
+  
